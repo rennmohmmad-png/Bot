@@ -1,2 +1,0 @@
-flask==3.0.3
-anthropic==0.34.2
